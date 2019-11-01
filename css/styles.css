@@ -36,12 +36,9 @@
   text-align: center;
 }
 .connect {
-    width: 68%;
-    border: solid grey;
     padding: 8px;
     font-size: 18px;
-    clear: both;
-    margin-left: 180px;
+    margin-left: 280px;
 }
 
 body {
