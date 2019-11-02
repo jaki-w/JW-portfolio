@@ -1,12 +1,12 @@
-#_{JW-portfolio}_
+# _JW-portfolio_
 
-####_{A webpage portfolio about me, Jaki.}, {11.02.2019}_
+####_A webpage portfolio about me, Jaki.}, {11.02.2019_
 
-#### By _**{Jaki Widby}**_
+#### By _**Jaki Widby**_
 
 ## Description
 
-_{This webpage inlcudes an about me section, a portfolio of my work, a hobbies section, and a let's connect section.}_
+_This webpage inlcudes an about me section, a portfolio of my work, a hobbies section, and a let's connect section._
 
 ## Setup/ Installation Requirement
 
@@ -16,4 +16,4 @@ _{This webpage inlcudes an about me section, a portfolio of my work, a hobbies s
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap V3.3.7}_
+_HTML, CSS, Bootstrap V3.3.7_
