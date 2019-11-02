@@ -1,6 +1,6 @@
 # _JW-portfolio_
 
-####_A webpage portfolio about me, Jaki.}, {11.02.2019_
+#### _A webpage portfolio about me, Jaki. ,11.02.2019_
 
 #### By _**Jaki Widby**_
 
