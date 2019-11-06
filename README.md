@@ -15,10 +15,10 @@ _This webpage inlcudes an about me section, a portfolio of my work, a hobbies se
 * _Click the clone or download button and copy web url_
 * _Open your computer's terminal._
 * _Run $ cd desktop._
-* _Run $ git clone https://github.com/jaki-w/JW-portfolio.git __
+* _Run $ git clone https://github.com/jaki-w/JW-portfolio.git ._
 * _Navigate to your computer's desktop and open JW-portfolio folder_
 * _Open the index.html file to view page in browser._
-* _To view page in browser without cloning the repositiory: open web browser of choice and navigate to jaki-w.github.io/JW-portfolio
+* _To view page in browser without cloning the repositiory: open web browser of choice and navigate to jaki-w.github.io/JW-portfolio_
 
 ## Technologies Used
 
