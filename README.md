@@ -10,9 +10,15 @@ _This webpage inlcudes an about me section, a portfolio of my work, a hobbies se
 
 ## Setup/ Installation Requirement
 
-* _Clone this repository._
-* _Open folder and click on portfolio html link._
-* _Portfolio will open in preferred web browser._
+* _Open web browser of choice and navigate to Github website._
+* _Navigate to JW-portfolio repository._
+* _Click the clone or download button and copy web url_
+* _Open your computer's terminal._
+* _Run $ cd desktop._
+* _Run $ git clone https://github.com/jaki-w/JW-portfolio.git __
+* _Navigate to your computer's desktop and open JW-portfolio folder_
+* _Open the index.html file to view page in browser._
+* _To view page in browser without cloning the repositiory: open web browser of choice and navigate to jaki-w.github.io/JW-portfolio
 
 ## Technologies Used
 
